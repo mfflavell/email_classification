@@ -1,0 +1,10 @@
+type,character,utf-8,description
+punctuation,-,xe2x80x93,dash
+punctuation,,xe2x80x99,single quote
+punctuation, ,xc2xa0,space
+punctuation,,xefxb8x8f,space
+punctuation,-,xe2x80x94,dash
+punctuation,"""",xe2x80x9c,double quote
+punctuation,"""",xe2x80x9d,double quote
+punctuation,¢,xc2xa2,cents
+punctuation,…,xe2x80xa6,ellipsis
